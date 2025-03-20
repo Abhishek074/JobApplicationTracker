@@ -23,3 +23,4 @@ Rebuild the solution to apply changes
 3. Run the Backend
 
 Start the project using the IDE's run command or execute dotnet run in the terminal (if applicable)
+Change the branch to frontend to access the frontend files.
